@@ -10,7 +10,7 @@ require (
 	github.com/jhoonb/archivex v0.0.0-20201016144719-6a343cdae81d
 	github.com/manifoldco/promptui v0.9.0
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.18.2
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gopkg.in/yaml.v2 v2.4.0
